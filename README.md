@@ -93,21 +93,15 @@ ___
 2. item 2
 3. item 3
 
-* this is an unordered list
-* item 2 
-* item 3
-
-- this is also an unordered list
-- item 2
-- item 3
-
-+ and this 
-+ item 2
-+ item 3
+* this is an unordered list (*)
+- this is also an unordered list (-)
++ and this (+)
 
 * main item
     - sub item, four spaces
         + aftur four spaces
+          1. supa
+          2. soup
 
 
 ***
